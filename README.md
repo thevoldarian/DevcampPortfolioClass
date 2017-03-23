@@ -1,25 +1,22 @@
 # README
+ > Ruby on Rails 5 App for portfolio generation
+ 
+ ### Features
+ 
+ - Realtime chat engine for comments
+ - Blog
+ - Drag and drop interface
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Code example 
 
-Things you may want to cover:
+```ruby
+def my_great_method
+puts "here it is"
+end
+```
 
-** Ruby version
+```javascript
+alert('Hi There!');
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # DevcampPortfolioClass

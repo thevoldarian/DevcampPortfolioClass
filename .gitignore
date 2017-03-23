@@ -18,5 +18,5 @@
 
 # Ignore Secrets
 /config/secrets.yml
-/config/secret_key_base
+
 
